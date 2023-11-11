@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="guest@10.16.79.128:5122 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="guest@10.16.79.128:5122 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/user/Benke/chb" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
